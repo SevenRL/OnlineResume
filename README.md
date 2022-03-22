@@ -40,3 +40,5 @@ Helping clients find right solutions to software and hardware for their electron
   * Other duties as required
 <br><br>
 
+## ✏️ Skills
+  
